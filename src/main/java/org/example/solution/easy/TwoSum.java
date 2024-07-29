@@ -1,7 +1,7 @@
-package org.example;
+package org.example.solution.easy;
 
-public class Solution {
-    // 1. Two Sum https://leetcode.com/problems/two-sum/
+// 1. Two Sum https://leetcode.com/problems/two-sum/
+public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int length = nums.length;
 
