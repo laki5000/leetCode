@@ -1,7 +1,5 @@
 package org.example.solution.easy;
 
-import java.util.Map;
-
 // 13. Roman to Integer https://leetcode.com/problems/roman-to-integer/
 public class RomanToInteger {
     public int romanToInt(String s) {

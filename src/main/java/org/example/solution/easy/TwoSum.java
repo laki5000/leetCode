@@ -10,13 +10,12 @@ public class TwoSum {
                 int left = j - i;
 
                 if (nums[left] + nums[j] == target) {
-                    return new int[]{left, j};
+                    return new int[] {left, j};
                 }
             }
         }
 
-
-        return new int[]{};
+        return new int[] {};
     }
 
 }

@@ -18,4 +18,3 @@ public class PalidromeNumber {
         return invertedX == x;
     }
 }
-
