@@ -1,11 +1,12 @@
 package org.example;
 
 import org.example.solution.easy.PalidromeNumber;
+import org.example.solution.easy.RomanToInteger;
 
 public class Main {
     public static void main(String[] args) {
-        PalidromeNumber palidromeNumber = new PalidromeNumber();
+        RomanToInteger romanToInteger = new RomanToInteger();
 
-        System.out.println(palidromeNumber.isPalindrome(121));
+        System.out.println(romanToInteger.romanToInt("IV"));
     }
 }
