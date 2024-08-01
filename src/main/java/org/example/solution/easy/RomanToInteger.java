@@ -6,11 +6,11 @@ public class RomanToInteger {
         if (s == null) {
             return 0;
         }
-        int lenght = s.length();
+        int length = s.length();
         int result = 0;
         int prev = 0;
 
-        for (int i = lenght - 1; i >= 0; i--) {
+        for (int i = length - 1; i >= 0; i--) {
             int current = convertToInt(s.charAt(i));
 
             if (current < prev) {
