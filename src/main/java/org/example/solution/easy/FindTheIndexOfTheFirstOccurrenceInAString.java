@@ -1,6 +1,7 @@
 package org.example.solution.easy;
 
-// 28. Find the Index of the First Occurrence in a String https://leetcode.com/problems/implement-strstr/
+// 28. Find the Index of the First Occurrence in a String
+// https://leetcode.com/problems/implement-strstr/
 public class FindTheIndexOfTheFirstOccurrenceInAString {
     public int strStr(String haystack, String needle) {
         int result = -1;
