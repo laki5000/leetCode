@@ -1,9 +1,8 @@
 package org.example.solution.easy;
 
-import org.example.model.TreeNode;
-
 import java.util.ArrayList;
 import java.util.List;
+import org.example.model.TreeNode;
 
 // 94. Binary Tree Inorder Traversal https://leetcode.com/problems/binary-tree-inorder-traversal/
 public class BinaryTreeInorderTraversal {
