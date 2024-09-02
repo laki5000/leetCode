@@ -2,7 +2,8 @@ package org.example.solution.easy;
 
 import org.example.model.TreeNode;
 
-// 108. Convert Sorted Array to Binary Search Tree https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+// 108. Convert Sorted Array to Binary Search Tree
+// https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 public class ConvertSortedArrayToBinarySearchTree {
     public TreeNode sortedArrayToBST(int[] nums) {
         int length = nums.length;
